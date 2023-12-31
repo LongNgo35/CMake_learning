@@ -2,5 +2,5 @@
 
 void hello_world_printing(void)
 {
-	printf("hello world - called by lib function\n");
+	printf("hello world - called by lib function - cloned form git repository \n");
 }
