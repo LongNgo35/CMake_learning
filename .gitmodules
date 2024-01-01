@@ -1,0 +1,3 @@
+[submodule "CMake_learning_submodule"]
+	path = CMake_learning_submodule
+	url = https://github.com/LongNgo35/CMake_learning_submodule
